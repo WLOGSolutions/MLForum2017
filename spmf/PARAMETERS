@@ -1,0 +1,5 @@
+RSuiteVersion: 0.17.223
+RVersion: 3.4
+Project: spmf
+Repositories: MRAN[2017-11-12], Url[http://h2o-release.s3.amazonaws.com/h2o/master/4097/R]
+Artifacts: config_templ.txt
